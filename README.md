@@ -4,5 +4,4 @@
 I have implemented myls with these options-
 #    1.-a
 #    2.-l
-#    3.-la or -al  or -a -l or -l -a
-(all of these options interpret both of -a and -l.)
+#    3.-la or -al  or -a -l or -l -a (all of these options interpret both of -a and -l.)
