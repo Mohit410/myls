@@ -5,6 +5,8 @@ I have implemented myls with these options-
 1. -a  
 2. -l  
 3. -la or -al  or -a -l or -l -a (all of these options interpret both of -a and -l.)  
+# Steps to follow before using myls  
+- copy the respective files to /usr/bin with root permissions    
 # How To Use  
 ### To use the command just type in terminal like ls -  
 ```
