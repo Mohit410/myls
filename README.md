@@ -8,8 +8,8 @@ I have implemented myls with these options-
 # How To Use  
 ### To use the command just type in terminal like ls -  
 ```
- myls  
- myls -a  
- myls -l  
- myls -al  
+ $ myls  
+ $ myls -a  
+ $ myls -l  
+ $ myls -al  
 ```
